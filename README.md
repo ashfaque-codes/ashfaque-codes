@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi there 👋 I'm Ashfaque
 
-<!--
-**ashfaque-codes/ashfaque-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 🌱 I’m currently learning Web Development
+- 💻 I love building cool projects
+- 📍 Based in Chennai, India
+- 📫 Reach me: ashfaque-codes
 
-Here are some ideas to get you started:
+### 🛠️ Languages & Tools
+HTML | CSS | JavaScript | Python | GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 My Projects
+Check my pinned repos below 👇## Hi there 👋
+
